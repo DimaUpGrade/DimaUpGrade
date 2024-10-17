@@ -1,7 +1,6 @@
 <h1>Hello there, I'm Dmitry 👋</h1> 
 <h2>I am a fullstack-developer 🧑‍💻</h2>
 <h4>My stack: Python, Django, Django Rest Framework, FastAPI, Vue 3, JavaScript, Docker</h4>
-<br>
 <p>
   I'm looking for a job in Python Backend Developer (Junior). I really love Python ❤️
 </p>
