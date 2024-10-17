@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Dmitry 👋</h1> 
+<h1>Hello there, I'm Dmitry 👋</h1> 
 <h2>I am a fullstack-developer 🧑‍💻</h2>
 <h4>My stack: Python, Django, Django Rest Framework, FastAPI, Vue 3, JavaScript, Docker</h4>
 <br>
