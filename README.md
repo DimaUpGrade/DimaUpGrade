@@ -1,4 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hello there, I'm Dmitry 👋</h1> 
+<h2>I am a fullstack-developer 🧑‍💻</h2>
+<h4>My stack: Python, Django, Django Rest Framework, FastAPI, Vue 3, JavaScript, Docker</h4>
+<br>
+<p>
+  I'm looking for a job in Python Backend Developer (Junior). I really love Python ❤️
+</p>
+<h3>📫 How to reach me:</h3>
+
+<p>
+  Telegram: https://t.me/hohomosapiens
+  <br>
+  Email: dima2002bord@yandex.ru
+</p>
+
+
+
 
 <!--
 **DimaUpGrade/DimaUpGrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
