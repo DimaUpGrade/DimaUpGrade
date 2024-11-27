@@ -2,7 +2,7 @@
 <h2>I am a fullstack-developer 🧑‍💻</h2>
 <h4>My stack: Python, Django, Django Rest Framework, FastAPI, Vue 3, JavaScript, Docker</h4>
 <p>
-  I'm looking for a job in Python Backend Developer (Junior). I really love Python ❤️
+  I'm looking for a job in Python Backend Developer (Middle). I really love Python ❤️
 </p>
 <h3>📫 How to reach me:</h3>
 
